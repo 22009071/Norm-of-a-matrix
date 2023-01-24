@@ -59,7 +59,7 @@ print("{:.2f}".format(ans))
 ![](2norm.png)
 
 ### Infinity Norm of a Matrix
-![](infnorm.png)
+![]("C:\Users\kabilan\Pictures\Screenshots\Screenshot_20230125_011744.png".png)
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
