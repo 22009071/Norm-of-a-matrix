@@ -53,6 +53,7 @@ print("{:.2f}".format(ans))
 ```
 ## Output:
 ### 1-Norm of a Matrix
+![image](https://user-images.githubusercontent.com/120206067/214588825-8d0272e7-0b0e-4d66-9e7c-3cceef8ac1cb.png)
 ![](1norm.png)
 
 ### 2-Norm of a Matrix
