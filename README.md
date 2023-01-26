@@ -57,7 +57,7 @@ print("{:.2f}".format(ans))
 ![](1norm.png)
 
 ### 2-Norm of a Matrix
-![](2normScreenshot_20230125_074521.png.png)
+![](Screenshot_20230125_074521.png)
 
 ### Infinity Norm of a Matrix
 ![]("C:\Users\kabilan\Pictures\Screenshots\Screenshot_20230125_011744.png".png)
