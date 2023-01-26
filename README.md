@@ -60,7 +60,7 @@ print("{:.2f}".format(ans))
 ![](Screenshot_20230125_074521.png)
 
 ### Infinity Norm of a Matrix
-
+![](Screenshot_20230125_074542.png)
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
