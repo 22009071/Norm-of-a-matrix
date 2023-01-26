@@ -24,8 +24,8 @@ print("{:.2f}".format(ans))
 
 # 2-Norm of a Matrix
 Program to find 2-norm of a matrix.
-Developed by: R.KARTHIKEYAN
-RegisterNumber:22002525 
+Developed by: kabilan
+RegisterNumber:22009071
 
 import numpy as np
 
